@@ -1,6 +1,0 @@
-C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\SudokuSolver_NThompson\SudokuSolver_NThompson\bin\Debug\SudokuSolver_NThompson.exe.config
-C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\SudokuSolver_NThompson\SudokuSolver_NThompson\bin\Debug\SudokuSolver_NThompson.exe
-C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\SudokuSolver_NThompson\SudokuSolver_NThompson\bin\Debug\SudokuSolver_NThompson.pdb
-C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\SudokuSolver_NThompson\SudokuSolver_NThompson\obj\Debug\SudokuSolver_NThompson.csprojResolveAssemblyReference.cache
-C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\SudokuSolver_NThompson\SudokuSolver_NThompson\obj\Debug\SudokuSolver_NThompson.exe
-C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\SudokuSolver_NThompson\SudokuSolver_NThompson\obj\Debug\SudokuSolver_NThompson.pdb
